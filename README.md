@@ -45,16 +45,7 @@ The House Price Prediction App is a machine learning-based web application that 
 3. Click the "Estimate Price" button to get the estimated market value.
 
 
-## Project Structure
-```plaintext
-house-price-prediction/
-├── app.py               # Main application file
-├── templates/           # HTML templates for the frontend
-├── static/              # Static files (CSS, JavaScript, images)
-├── models/              # Machine learning model files
-├── data/                # Dataset files
-└── README.md            # Project documentation
-```
+
 
 ## Model Training
 If you wish to retrain the model:
