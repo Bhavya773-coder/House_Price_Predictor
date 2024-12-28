@@ -14,30 +14,7 @@ The House Price Prediction App is a machine learning-based web application that 
 - **Backend**: Flask
 - **Machine Learning Model**: Scikit-learn Leniar Regression
 
-### Prerequisites
-- Python 3.8+
-- pipenv or virtualenv for managing Python dependencies
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
-   cd house-price-prediction
-   ```
-2. Set up a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the application:
-   ```bash
-   python app.py
-   ```
-5. Access the app in your browser at `http://localhost:5000`.
 
 ## Usage
 1. Open the app in your browser.
