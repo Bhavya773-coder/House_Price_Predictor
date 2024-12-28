@@ -53,7 +53,6 @@ house-price-prediction/
 ├── static/              # Static files (CSS, JavaScript, images)
 ├── models/              # Machine learning model files
 ├── data/                # Dataset files
-├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 ```
 
